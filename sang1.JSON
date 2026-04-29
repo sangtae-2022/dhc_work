@@ -2,8 +2,8 @@
   "patients": [
     {
       "id": "1",
-      "name": "Chul Soo Lee",
-      "age": 45,
+      "name": "김상태",
+      "age": 24,
       "gender": "Male",
       "vitalSigns": {
         "heartRate": [72, 75, 78, 80],
@@ -17,8 +17,8 @@
     },
     {
       "id": "2",
-      "name": "Hana Kim",
-      "age": 36,
+      "name": "kim ji ho",
+      "age": 25,
       "gender": "Female",
       "vitalSigns": {
         "heartRate": [80, 90, 120, 110],
