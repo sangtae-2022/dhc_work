@@ -8,9 +8,9 @@
       "vitalSigns": {
         "heartRate": [72, 75, 78, 80],
         "bloodPressure": [
-          {"systolic": 120, "diastolic": 80},
-          {"systolic": 118, "diastolic": 79},
-          {"systolic": 122, "diastolic": 82}
+          { "systolic": 120, "diastolic": 80 },
+          { "systolic": 118, "diastolic": 79 },
+          { "systolic": 122, "diastolic": 82 }
         ],
         "temperature": [36.6, 35.8, 37.0]
       }
@@ -23,13 +23,14 @@
       "vitalSigns": {
         "heartRate": [80, 90, 120, 110],
         "bloodPressure": [
-          {"systolic": 115, "diastolic": 75},
-          {"systolic": 117, "diastolic": 78},
-          {"systolic": 116, "diastolic": 76}
+          { "systolic": 115, "diastolic": 75 },
+          { "systolic": 117, "diastolic": 78 },
+          { "systolic": 116, "diastolic": 76 }
         ],
         "temperature": [36.5, 37.7, 36.9]
-      },
- {
+      }
+    },
+    {
       "id": "3",
       "name": "오재민",
       "age": 25,
@@ -37,12 +38,12 @@
       "vitalSigns": {
         "heartRate": [30, 90, 120, 180],
         "bloodPressure": [
-          {"systolic": 115, "diastolic": 75},
-          {"systolic": 117, "diastolic": 78},
-          {"systolic": 116, "diastolic": 76}
+          { "systolic": 115, "diastolic": 75 },
+          { "systolic": 117, "diastolic": 78 },
+          { "systolic": 116, "diastolic": 76 }
         ],
         "temperature": [36.5, 37.7, 36.9]
       }
     }
-  
+  ]
 }
