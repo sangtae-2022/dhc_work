@@ -17,11 +17,25 @@
     },
     {
       "id": "2",
-      "name": "kim ji ho",
+      "name": "김지호",
       "age": 25,
-      "gender": "Female",
+      "gender": "guy",
       "vitalSigns": {
         "heartRate": [80, 90, 120, 110],
+        "bloodPressure": [
+          {"systolic": 115, "diastolic": 75},
+          {"systolic": 117, "diastolic": 78},
+          {"systolic": 116, "diastolic": 76}
+        ],
+        "temperature": [36.5, 37.7, 36.9]
+      },
+ {
+      "id": "3",
+      "name": "오재민",
+      "age": 25,
+      "gender": "king",
+      "vitalSigns": {
+        "heartRate": [30, 90, 120, 180],
         "bloodPressure": [
           {"systolic": 115, "diastolic": 75},
           {"systolic": 117, "diastolic": 78},
